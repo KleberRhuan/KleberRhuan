@@ -25,10 +25,10 @@
  ##  💬 Minhas Redes:
  <p align="center" style="display: flex; >
   <a href="mailto:kleber.rsilva@al.infnet.edu.br" target="_blank" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=kleber.rsilva@al.infnet.edu.br" /></a>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
   <a href="https://www.linkedin.com/in/kleber-rhuan/" target="_blank" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kleber-rhuan/" /></a>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  </p>
  
  ## 📊 Stats:
