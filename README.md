@@ -22,7 +22,7 @@
  
  <br/>
  
- ##  💬 Minhas Redes:
+ ##  💬 Social Medias:
  <p align="center" style="display: flex;">
   <a href="mailto:kleber_rhuan@hotmail.com" target="_blank" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
