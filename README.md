@@ -1,11 +1,10 @@
 # Olá, Eu sou o Kleber! 👋🏽
  
-* 🎈 Tenho 19 Anos.
+* 🎈 19 Years Old.
 * <img style="width: 20px; height: 20px;" src="https://cdn-icons-png.flaticon.com/512/534/534621.png"> Software Engineer.
 
 
-👨🏽‍💻 Estou cursando Engenharia de Software pelo Instituto Infnet, aqui você também encontrará projetos e atividades solicitados pela instituição. 📚
-
+👨🏽‍💻 Currently, I am studying Software Engineering at Instituto Infnet, here you will also find projects and activities requested by the institution ... 📚
 <br/>
 
 ![presentation](https://user-images.githubusercontent.com/113813046/207380990-5414630e-e54c-46b9-8eb4-32ae865f845c.gif)
