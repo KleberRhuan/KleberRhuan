@@ -1,14 +1,10 @@
-# Hi, I am Kleber! 👋🏽
+# Kleber Rhuan - Backend Developer
  
-* 🎈 20 Years Old.
-* <img style="width: 20px; height: 20px;" src="https://cdn-icons-png.flaticon.com/512/534/534621.png"> Software Engineer.
+👋 Hi, I'm Kleber, a Lisbon-based backend developer with over a year of professional experience. My primary expertise lies in Java and Spring, where I focus on building robust, efficient backend solutions.
 
+I also have a strong foundation in React, TypeScript, and Node.js, enabling me to work effectively across different tech stacks. I'm constantly learning and striving to improve my skills.
 
-👨🏽‍💻 Currently, I am studying Software Engineering at Instituto Infnet, here you will also find projects and activities requested by the institution ... 📚
-<br/>
-
-![presentation](https://user-images.githubusercontent.com/113813046/207380990-5414630e-e54c-46b9-8eb4-32ae865f845c.gif)
-
+🔍 I'm on GitHub to collaborate on innovative projects and to connect with other developers. Feel free to reach out if you're interested in working together or sharing knowledge!
 
 ## 🧩 Skills.
 
