@@ -35,15 +35,9 @@ I also have a strong foundation in React, TypeScript, and Node.js, enabling me t
 
  ##  💬 Social Medias:
  <p align="center" style="display: flex;">
-  <a href="mailto:kleber_rhuan@hotmail.com" target="_blank" alt="Gmail">
+  <a href="mailto:kleber@rhuan.cloud" target="_blank" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
   <a href="https://www.linkedin.com/in/kleber-rhuan/" target="_blank" alt="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  </p>
- 
- ## 📊 Stats:
- 
-<p align="center" style="display:flex;">
-<img src="https://github-readme-stats.vercel.app/api?username=KleberRhuan&show_icons=true&theme=dark" alt="dark-theme">
-  </p>
