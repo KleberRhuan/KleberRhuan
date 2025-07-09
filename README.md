@@ -1,6 +1,6 @@
 # Kleber Rhuan - Backend Developer
  
-👋 Hi, I'm Kleber, a backend developer with over a year of professional experience. My primary expertise lies in Java and Spring, where I focus on building robust, efficient backend solutions.
+👋 Hi, I'm Kleber, a backend developer. My primary expertise lies in Java and Spring, where I focus on building robust, efficient backend solutions.
 
 I also have a strong foundation in React, TypeScript, and Node.js, enabling me to work effectively across different tech stacks. I'm constantly learning and striving to improve my skills.
 
